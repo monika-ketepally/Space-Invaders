@@ -10,3 +10,5 @@ In the game Space invaders, there is one space ship at the bottom of game window
 ## Output Screenshots
 
 ![output](outputImage1.png)
+
+![output](outputimage2.png)
