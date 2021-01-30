@@ -7,4 +7,4 @@ In the game Space invaders, there is one space ship at the bottom of game window
 •	Pycharm Jetbrains
 •	Pygame
 
-![output](outputImage.png)
+![output](outputImage1.png)
